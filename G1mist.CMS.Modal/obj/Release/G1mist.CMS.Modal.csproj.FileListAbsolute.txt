@@ -1,0 +1,9 @@
+D:\G1mist.CMS\G1mist.CMS\G1mist.CMS.Modal\bin\Release\G1mist.CMS.Modal.dll.config
+D:\G1mist.CMS\G1mist.CMS\G1mist.CMS.Modal\bin\Release\G1mist.CMS.Modal.dll
+D:\G1mist.CMS\G1mist.CMS\G1mist.CMS.Modal\bin\Release\G1mist.CMS.Modal.pdb
+D:\G1mist.CMS\G1mist.CMS\G1mist.CMS.Modal\bin\Release\EntityFramework.dll
+D:\G1mist.CMS\G1mist.CMS\G1mist.CMS.Modal\bin\Release\EntityFramework.xml
+D:\G1mist.CMS\G1mist.CMS\G1mist.CMS.Modal\bin\Release\zh-Hans\EntityFramework.resources.dll
+D:\G1mist.CMS\G1mist.CMS\G1mist.CMS.Modal\obj\Release\G1mist.CMS.Modal.csprojResolveAssemblyReference.cache
+D:\G1mist.CMS\G1mist.CMS\G1mist.CMS.Modal\obj\Release\G1mist.CMS.Modal.dll
+D:\G1mist.CMS\G1mist.CMS\G1mist.CMS.Modal\obj\Release\G1mist.CMS.Modal.pdb

@@ -1,0 +1,4 @@
+D:\G1mist.CMS\G1mist.CMS\G1mist.CMS.IDAL\bin\Release\G1mist.CMS.IDAL.dll
+D:\G1mist.CMS\G1mist.CMS\G1mist.CMS.IDAL\bin\Release\G1mist.CMS.IDAL.pdb
+D:\G1mist.CMS\G1mist.CMS\G1mist.CMS.IDAL\obj\Release\G1mist.CMS.IDAL.dll
+D:\G1mist.CMS\G1mist.CMS\G1mist.CMS.IDAL\obj\Release\G1mist.CMS.IDAL.pdb

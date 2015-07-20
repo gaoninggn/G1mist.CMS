@@ -1,0 +1,4 @@
+D:\G1mist.CMS\G1mist.CMS\GeetestSDK\bin\Release\GeetestSDK.dll
+D:\G1mist.CMS\G1mist.CMS\GeetestSDK\bin\Release\GeetestSDK.pdb
+D:\G1mist.CMS\G1mist.CMS\GeetestSDK\obj\Release\GeetestSDK.dll
+D:\G1mist.CMS\G1mist.CMS\GeetestSDK\obj\Release\GeetestSDK.pdb

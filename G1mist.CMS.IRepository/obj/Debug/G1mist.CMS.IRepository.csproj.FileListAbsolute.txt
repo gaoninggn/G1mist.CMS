@@ -1,0 +1,5 @@
+D:\G1mist.CMS\G1mist.CMS\G1mist.CMS.IRepository\bin\Debug\G1mist.CMS.IRepository.dll
+D:\G1mist.CMS\G1mist.CMS\G1mist.CMS.IRepository\bin\Debug\G1mist.CMS.IRepository.pdb
+D:\G1mist.CMS\G1mist.CMS\G1mist.CMS.IRepository\obj\Debug\G1mist.CMS.IRepository.csprojResolveAssemblyReference.cache
+D:\G1mist.CMS\G1mist.CMS\G1mist.CMS.IRepository\obj\Debug\G1mist.CMS.IRepository.dll
+D:\G1mist.CMS\G1mist.CMS\G1mist.CMS.IRepository\obj\Debug\G1mist.CMS.IRepository.pdb

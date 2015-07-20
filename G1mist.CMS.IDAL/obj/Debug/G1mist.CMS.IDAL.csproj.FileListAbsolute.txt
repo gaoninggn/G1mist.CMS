@@ -1,0 +1,5 @@
+D:\G1mist.CMS\G1mist.CMS\G1mist.CMS.IDAL\bin\Debug\G1mist.CMS.IDAL.dll
+D:\G1mist.CMS\G1mist.CMS\G1mist.CMS.IDAL\bin\Debug\G1mist.CMS.IDAL.pdb
+D:\G1mist.CMS\G1mist.CMS\G1mist.CMS.IDAL\obj\Debug\G1mist.CMS.IDAL.csprojResolveAssemblyReference.cache
+D:\G1mist.CMS\G1mist.CMS\G1mist.CMS.IDAL\obj\Debug\G1mist.CMS.IDAL.dll
+D:\G1mist.CMS\G1mist.CMS\G1mist.CMS.IDAL\obj\Debug\G1mist.CMS.IDAL.pdb

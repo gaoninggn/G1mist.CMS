@@ -1,0 +1,13 @@
+D:\G1mist.CMS\G1mist.CMS\G1mist.CMS.Repository\bin\Debug\G1mist.CMS.Repository.dll
+D:\G1mist.CMS\G1mist.CMS\G1mist.CMS.Repository\bin\Debug\G1mist.CMS.Repository.pdb
+D:\G1mist.CMS\G1mist.CMS\G1mist.CMS.Repository\bin\Debug\G1mist.CMS.DAL.dll
+D:\G1mist.CMS\G1mist.CMS\G1mist.CMS.Repository\bin\Debug\G1mist.CMS.IDAL.dll
+D:\G1mist.CMS\G1mist.CMS\G1mist.CMS.Repository\bin\Debug\G1mist.CMS.IRepository.dll
+D:\G1mist.CMS\G1mist.CMS\G1mist.CMS.Repository\bin\Debug\G1mist.CMS.Modal.dll
+D:\G1mist.CMS\G1mist.CMS\G1mist.CMS.Repository\bin\Debug\G1mist.CMS.DAL.pdb
+D:\G1mist.CMS\G1mist.CMS\G1mist.CMS.Repository\bin\Debug\G1mist.CMS.IDAL.pdb
+D:\G1mist.CMS\G1mist.CMS\G1mist.CMS.Repository\bin\Debug\G1mist.CMS.IRepository.pdb
+D:\G1mist.CMS\G1mist.CMS\G1mist.CMS.Repository\bin\Debug\G1mist.CMS.Modal.pdb
+D:\G1mist.CMS\G1mist.CMS\G1mist.CMS.Repository\obj\Debug\G1mist.CMS.Repository.csprojResolveAssemblyReference.cache
+D:\G1mist.CMS\G1mist.CMS\G1mist.CMS.Repository\obj\Debug\G1mist.CMS.Repository.dll
+D:\G1mist.CMS\G1mist.CMS\G1mist.CMS.Repository\obj\Debug\G1mist.CMS.Repository.pdb

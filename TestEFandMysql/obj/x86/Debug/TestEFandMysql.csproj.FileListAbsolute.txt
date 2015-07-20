@@ -1,0 +1,7 @@
+D:\G1mist.CMS\G1mist.CMS\TestEFandMysql\bin\Debug\TestEFandMysql.exe.config
+D:\G1mist.CMS\G1mist.CMS\TestEFandMysql\bin\Debug\TestEFandMysql.exe
+D:\G1mist.CMS\G1mist.CMS\TestEFandMysql\bin\Debug\TestEFandMysql.pdb
+D:\G1mist.CMS\G1mist.CMS\TestEFandMysql\bin\Debug\MySql.Data.dll
+D:\G1mist.CMS\G1mist.CMS\TestEFandMysql\obj\x86\Debug\TestEFandMysql.csprojResolveAssemblyReference.cache
+D:\G1mist.CMS\G1mist.CMS\TestEFandMysql\obj\x86\Debug\TestEFandMysql.exe
+D:\G1mist.CMS\G1mist.CMS\TestEFandMysql\obj\x86\Debug\TestEFandMysql.pdb
